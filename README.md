@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hamish Philip
-- 🌱 I’m currently Studing Coputer Sciance at University
+- 🌱 I’m currently Studing Computer Sciance at University
 - 📫 Email: Hphilip92@gmail.com
 
 <!---
